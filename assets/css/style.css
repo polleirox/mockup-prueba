@@ -1,0 +1,61 @@
+body {
+  font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+.fijar{
+  position: fixed;
+  width: 100%;
+}
+.estiloletra{
+    font-family: 'Notable', sans-serif;
+}
+
+.estiloletra2{
+    font-family: 'Roboto', sans-serif;
+}
+
+.tamañoletra{
+  font-size: 2em;
+}
+
+.negrita{
+  font-weight: bold;
+}
+
+.margentop{
+  border-top: 3px solid white;
+}
+
+
+.bg-hero{
+  background-image: url('../img/foto_perfil.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 70%;
+}
+
+.icons-section{
+  width: 100%;
+  padding: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.caracteristicas {
+  text-align: center;
+}
+
+.caracteristica {
+  list-style: none;
+  display: inline-block;
+}
+
+.caracteristica i {
+  width: 250px;
+  padding: 30px;
+  margin: 40px;
+  font-size: 70px;
+  display: block;
+}
